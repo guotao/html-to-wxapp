@@ -1,5 +1,5 @@
 module.exports = {
-	remTimes: 40,   //rem -> rpx
+	remTimes: 100,   //rem -> rpx
 	distNamePre: '_wxapp_',  //转换后重命名前缀
 	htmlToWxml: {
 		"rmTagAndContent": "script",
